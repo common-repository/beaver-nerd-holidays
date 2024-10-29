@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for the public-facing functionality. 
+ */
+.nerdholiday-title {
+	font-size: 120%;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.nerdholiday-description {
+
+}
+
+.nerdholiday-link {
+	font-size: 80%;
+}
